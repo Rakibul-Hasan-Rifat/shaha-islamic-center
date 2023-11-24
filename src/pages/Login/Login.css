@@ -1,0 +1,52 @@
+form input,
+form button {
+    margin: 20px 0;
+    padding: 15px;
+    border-radius: 6px;
+    outline: none;
+    color: #fff;
+}
+
+form input {
+    background-color: rgba(249, 249, 240, .1);
+    border: 1px solid #ddd;
+}
+
+form input:hover,
+form input:focus {
+    background-color: rgba(255, 255, 255, .3);
+    border: 1px solid #db9e30;
+}
+
+form button {
+    background-color: #57a68f;
+}
+
+form button:hover {
+    background-color: #db9e30;
+}
+
+.join_us_title {
+    position: relative;
+    color: #fff;
+}
+
+.join_us_title::before {
+    content: '';
+    ;
+    width: 40%;
+    height: 1px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    background-color: white;
+}
+.join_us_title::after {
+    content: '';
+    width: 40%;
+    height: 1px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    background-color: white;
+}

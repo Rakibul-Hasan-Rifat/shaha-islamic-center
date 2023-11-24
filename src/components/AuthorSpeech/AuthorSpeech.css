@@ -1,0 +1,16 @@
+#author_speech {
+    position: relative;
+    color: rgba(69, 26, 5, .5);
+}
+
+#author_speech::before{
+    content: '“';
+    font-family: "'Cinzel Decorative', 'Roboto'";
+    font-weight: 900;
+    font-style: italic;
+    font-size: 100px;
+    color: #441a05;
+    position: absolute;
+    top: -80px;
+    left: -40px;
+}

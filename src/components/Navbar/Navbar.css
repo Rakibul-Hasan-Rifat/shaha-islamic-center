@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    border-radius: 8px;
+    padding:8px 12px;
+    background-color: rgba(0, 0, 0, .3);
+}
+
+.navbar-start {
+    font-family: 'Cinzel Decorative', serif;
+}
+
+nav li {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+nav li a {
+    position: relative;
+}
+
+nav li a:hover {
+    border-bottom: 1px solid #db9e30;
+    color: #db9e30 !important;
+    background-color: transparent !important;
+    border-radius: 0;
+}
+
+a.active {
+    color: #db9e30 !important;
+    background-color: transparent !important;
+    border-bottom: 1px solid #db9e30;
+    border-radius: 0;
+}

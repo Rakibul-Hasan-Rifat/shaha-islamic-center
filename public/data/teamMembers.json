@@ -1,0 +1,44 @@
+[
+    {
+        "id": "aB3C8D",
+        "name": "Imam Emir Safar",
+        "position": "Religious Director",
+        "email": "imam@example.com",
+        "img_url": "https://shaha.ancorathemes.com/wp-content/uploads/2017/07/team-6-370x370.jpg"
+    },
+    {
+        "id": "Xy7Z2P",
+        "name": "Nair Nazari",
+        "position": "Exicutive Director",
+        "email": "executive@example.com",
+        "img_url": "https://shaha.ancorathemes.com/wp-content/uploads/2017/07/team-5-370x370.jpg"
+    },
+    {
+        "id": "9hR6kQ",
+        "name": "Ramzi Kattan",
+        "position": "Youth Director",
+        "email": "director@example.com",
+        "img_url": "https://shaha.ancorathemes.com/wp-content/uploads/2017/07/team-4-370x370.jpg"
+    },
+    {
+        "id": "M2nLpW",
+        "name": "Amir Seif",
+        "position": "Secretary",
+        "email": "yoursite@gmail.com",
+        "img_url": "https://shaha.ancorathemes.com/wp-content/uploads/2017/07/team-3-370x370.jpg"
+    },
+    {
+        "id": "G4tE1s",
+        "name": "Haris Nader",
+        "position": "Board Member",
+        "email": "yoursite@gmail.com",
+        "img_url": "https://shaha.ancorathemes.com/wp-content/uploads/2017/07/team-2-370x370.jpg"
+    },
+    {
+        "id": "fU7iQo",
+        "name": "Abdul Mustafa",
+        "position": "Board member",
+        "email": "yoursite@gmail.com",
+        "img_url": "https://shaha.ancorathemes.com/wp-content/uploads/2017/07/team-1-370x370.jpg"
+    }
+]
