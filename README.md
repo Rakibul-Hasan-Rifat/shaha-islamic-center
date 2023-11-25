@@ -1,7 +1,7 @@
-# [Shaha-Islamic-Center](https://funny-starship-e81f75.netlify.app/)(https://shaha-islamic-center.web.app)
+# Shaha-Islamic-Center
 
-### [Firebase Link](https://shaha-islamic-center.web.app)
-### [Netlify Link](https://funny-starship-e81f75.netlify.app/)
+### [Firebase Link](https://shaha-islamic-center.web.app)        ### [Netlify Link](https://funny-starship-e81f75.netlify.app/)
+
 
 - Authentication using firebase
 - Private routing on event page, team page and details page
